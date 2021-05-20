@@ -1,18 +1,11 @@
-[
+{
+  "posts": [
     {
-        "n": 2,
-        "e": 1
-    },
-    {
-        "from": 1,
-        "to": 2
-    },
-    {
-        "from": 2,
-        "to": 3
-    },
-    {
-        "from": 3,
-        "to": 4
+      "id": 1,
+      "title": "hello"
     }
-]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
